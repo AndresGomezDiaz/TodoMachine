@@ -13,7 +13,6 @@ function TodoForm() {
 
 
 	const onChange = (event) => {
-		console.log(event.target.value);
 		setNewTodoValue(event.target.value);
 	};
 
