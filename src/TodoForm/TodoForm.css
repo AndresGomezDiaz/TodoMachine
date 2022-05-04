@@ -37,7 +37,7 @@ textarea::placeholder {
 }
 
 textarea:focus {
-	outline-color: #61DAFA;
+	outline-color: #3db39e;
 	font-family: 'Montserrat';
 }
 
